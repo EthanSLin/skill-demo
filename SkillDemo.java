@@ -1,1 +1,5 @@
-public class SkillDemo {} //i am fighting for my life here please
+public class SkillDemo {
+    public static int add(int n, int m) {
+        return n + m;
+    }
+}
